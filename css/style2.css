@@ -1,0 +1,29 @@
+/* div {
+  color: red;
+  background-color: brown;
+}
+.green {
+  color: sandybrown;
+  background-color: white;
+} */
+
+/* new */
+body {
+  /* color: blueviolet; */
+  font-family: monospace;
+  line-height: 1.5em;
+  border: 3px solid black;
+}
+
+div {
+  color: blueviolet;
+}
+
+#p1 {
+  line-height: 1em;
+  color: red;
+}
+
+h1 {
+  color: cadetblue;
+}

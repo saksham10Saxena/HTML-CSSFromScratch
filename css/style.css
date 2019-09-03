@@ -1,0 +1,20 @@
+body {
+  color: crimson;
+}
+
+h1,
+h2 {
+  color: greenyellow;
+}
+
+#heading {
+  color: coral;
+  background-color: aquamarine;
+}
+#head {
+  color: blueviolet;
+  background-color: aqua;
+}
+div {
+  color: red;
+}
